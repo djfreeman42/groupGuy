@@ -19,7 +19,7 @@ public class GroupGuy {
     }
 
     private static void Freeman() {
-        
+        System.out.println("Added");
     }
     
 }
